@@ -1,0 +1,4 @@
+Country,City,Longitude,Latitude,Pressure,Humidity,Visibility,Wind,Clouds,Description
+RU,Moscow,37.62,55.75,1028,66,10000,5,0,clear sky
+UA,Kiev,30.52,50.45,1033,61,10000,3,0,clear sky
+GB,London,-0.13,51.51,1012,81,10000,4.6,90,mist
